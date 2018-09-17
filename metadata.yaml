@@ -1,8 +1,11 @@
 _repo: u-Chang-sheng-dian-u-The-Palace-of-Eternal-Youth-_52270
-_version: 0.1.0
+_version: 0.2.0
 alternative_title:
 - Chang sheng dian
 - The Palace of Eternal Youth
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hong, Sheng
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '46752'
     url: http://www.gutenberg.org/2009/agents/46752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52270#u-Chang-sheng-dian-u-The-Palace-of-Eternal-Youth-
 gutenberg_issued: '2016-07-02'
 gutenberg_type: Text
 identifiers:
