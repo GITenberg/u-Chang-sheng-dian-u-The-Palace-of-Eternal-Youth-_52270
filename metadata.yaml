@@ -1,0 +1,32 @@
+_repo: u-Chang-sheng-dian-u-The-Palace-of-Eternal-Youth-_52270
+_version: 0.0.1
+alternative_title:
+- Chang sheng dian
+- The Palace of Eternal Youth
+creator:
+  author:
+    agent_name: Hong, Sheng
+    aliases:
+    - 洪昇
+    - Hung, Sheng
+    - 洪升
+    - Hung, Pai-hsi
+    birthdate: 1645
+    deathdate: 1704
+    gutenberg_agent_id: '46752'
+    url: http://www.gutenberg.org/2009/agents/46752
+description: ''
+gutenberg_issued: '2016-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52270'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese drama'
+- GITenberg
+title: 長生殿
+url: http://www.gutenberg.org/ebooks/52270
